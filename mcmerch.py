@@ -4,7 +4,7 @@ import sys
 
 ##consider scaliebilty and extensivibility - make sure your code is flexible (scale and add more features)
 ##print(sys.argv[1]*1*1.13)
-
+##new project
 
 def parseArguments(): ##dictionary 
      arguments = {
